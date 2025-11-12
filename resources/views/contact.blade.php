@@ -51,7 +51,7 @@
                         <div class="card-body">
                             <i class="fas fa-envelope fa-2x text-primary mb-3"></i>
                             <h5>Email</h5>
-                            <p>john.doe@student.edu.my</p>
+                            <p>CB24167@adab.umpsa.edu.my</p>
                         </div>
                     </div>
                 </div>
@@ -60,7 +60,7 @@
                         <div class="card-body">
                             <i class="fas fa-phone fa-2x text-success mb-3"></i>
                             <h5>Phone</h5>
-                            <p>+60 12-345 6789</p>
+                            <p>+60 17-347 6779</p>
                         </div>
                     </div>
                 </div>
@@ -69,7 +69,7 @@
                         <div class="card-body">
                             <i class="fas fa-map-marker-alt fa-2x text-danger mb-3"></i>
                             <h5>Location</h5>
-                            <p>Kuala Lumpur, Malaysia</p>
+                            <p>Pekan, Pahang, Malaysia</p>
                         </div>
                     </div>
                 </div>
