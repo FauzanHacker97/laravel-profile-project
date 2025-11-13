@@ -22,7 +22,7 @@
             <div class="card shadow-sm">
                 <div class="card-body">
                     <h3>About Me</h3>
-                    <p>Hello! I'm [NUR AMNI NASHIRAH BINTI ABD RAHIM], a creative frontend developer passionate about building beautiful user interfaces.</p>
+                    <p>Hello! I'm Nur Amni Nashirah Binti Abd Rahim, a creative frontend developer passionate about building beautiful user interfaces.</p>
 
                     <h4 class="mt-4">Technical Skills</h4>
                     <div class="mb-3">
@@ -33,7 +33,7 @@
                     </div>
 
                     <h4>Education</h4>
-                    <p>Bachelor of Computer Science<br>Faculty of Computing</p>
+                    <p>BCS - BACHELOR OF COMPUTER SCIENCE (SOFTWARE ENGINEERING) WITH HONOURS<br>Faculty of Computing</p>
 
                     <h4>Responsibilities in This Project</h4>
                     <ul>
