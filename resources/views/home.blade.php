@@ -10,7 +10,7 @@
             <div class="col-lg-8">
                 <h1 class="display-4 fw-bold mb-3">Our Amazing Team</h1>
                 <p class="lead mb-4">Meet the talented developers behind this project</p>
-                
+
                 <!-- Team Members Overview -->
                 <div class="row mt-5">
                     <div class="col-md-4 mb-4">
@@ -18,7 +18,7 @@
                             <div class="card-body">
                                 <img src="https://via.placeholder.com/100" class="rounded-circle mb-3" alt="Member 1">
                                 <h5>Member 1 Name</h5>
-                                <p>Role: Frontend Developer</p>
+                                <p>Role: Backend Developer</p>
                                 <a href="{{ route('about.member1') }}" class="btn btn-primary">View Profile</a>
                             </div>
                         </div>
@@ -26,9 +26,9 @@
                     <div class="col-md-4 mb-4">
                         <div class="card">
                             <div class="card-body">
-                                <img src="https://via.placeholder.com/100" class="rounded-circle mb-3" alt="Member 2">
-                                <h5>Member 2 Name</h5>
-                                <p>Role: Backend Developer</p>
+                                <img src="{{ asset('images/amni.JPEG') }}" class="rounded-circle mb-3" alt="Member 2" width="150" height="150">
+                                <h5>NUR AMNI NASHIRAH BINTI ABD RAHIM</h5>
+                                <p>Role: Frontend Developer</p>
                                 <a href="{{ route('about.member2') }}" class="btn btn-primary">View Profile</a>
                             </div>
                         </div>
@@ -36,7 +36,7 @@
                     <div class="col-md-4 mb-4">
                         <div class="card">
                             <div class="card-body">
-                                <img src="{{ asset('images/Fauzan.jpg') }}" class="rounded-circle mb-3" alt="Member 3" width="150" height="150">
+                                <img src="{{ asset('images/fauzan.JPEG') }}" class="rounded-circle mb-3" alt="Member 3" width="150" height="150">
                                 <h5>AHMAD FAUZAN BIN NGAH</h5>
                                 <p>Role: Full Stack Developer</p>
                                 <a href="{{ route('about.member3') }}" class="btn btn-primary">View Profile</a>
