@@ -16,8 +16,8 @@
                     <div class="col-md-4 mb-4">
                         <div class="card">
                             <div class="card-body">
-                                <img src="https://via.placeholder.com/100" class="rounded-circle mb-3" alt="Member 1">
-                                <h5>Member 1 Name</h5>
+                                <img src="{{ asset('images/najmi.JPEG') }}" class="rounded-circle mb-3" alt="Member 1" width="150" height="150">
+                                <h5>AHMAD NAJMI BIN MOHD NORMAN</h5>
                                 <p>Role: Backend Developer</p>
                                 <a href="{{ route('about.member1') }}" class="btn btn-primary">View Profile</a>
                             </div>
